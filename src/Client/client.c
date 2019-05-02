@@ -13,6 +13,7 @@
 int main(int argc, char** argv)
 {
     int    sockfd, n;
+    int i;
     char    recvline[4096], sendline[4096];
     struct sockaddr_in    servaddr;
 #if 0
