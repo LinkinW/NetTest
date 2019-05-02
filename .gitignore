@@ -1,4 +1,4 @@
 build/*
-!build/.gitkeep
 bin/*
+!*/.gitkeep
 .idea
